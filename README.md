@@ -1,4 +1,5 @@
 # Palantir-Financial-Analysis
+![Alt Text](https://github.com/OssFad/Palantir-Financial-Analysis/blob/main/Plantir%20pbi.PNG)
 
 ## 🔥 Excited to share my latest financial analysis project! 🔥  
 
