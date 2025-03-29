@@ -3,7 +3,7 @@
 
 ##  Link to Visualize the Dashboard
 
-[View my Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODM0Y2MzNzctODY4NS00YmQ5LTgwMjgtY2Q3ZTQ1OWE2OTZiIiwidCI6IjNkZmE1ODc5LTQ3NmYtNDViNC04MDc5LWZlNjBlYWYzZjhhNSJ9)
+[View my Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWRlZmZlNTYtNGQzMi00OTY4LTg3NTQtZDQxN2E2ZjM2MzU3IiwidCI6IjNkZmE1ODc5LTQ3NmYtNDViNC04MDc5LWZlNjBlYWYzZjhhNSJ9)
 
 
 ## 🔥 Excited to share my latest financial analysis project! 🔥  
