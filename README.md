@@ -1,6 +1,6 @@
 # Palantir-Financial-Analysis
 
-# 🔥 Excited to share my latest financial analysis project! 🔥  
+## 🔥 Excited to share my latest financial analysis project! 🔥  
 
 As a **data scientist & financial analyst**, I love combining data-driven insights with finance to uncover valuable trends. In this project, I analyzed financial data to assess **Plantir activity, liquidity, slovency, and profitability potential**.  
 
